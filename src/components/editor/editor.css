@@ -1,0 +1,9 @@
+.invalid-method {
+    background-color: red;
+    color: white;
+}
+
+.invalid-name {
+    background-color:orange;
+    color: white;
+}
